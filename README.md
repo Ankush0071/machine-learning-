@@ -14,3 +14,15 @@ Machine Learning Mathematics Covered
 •  Covariance and Correlation
 •  Central Limit Theorem
 •  Hypothesis Testing
+Machine Learning Fundamentals
+
+1. Introduction to Machine Learning (ML)
+2. Roadmap to Learning Machine Learning
+3. Types of Data and Variables in ML
+
+Data Cleaning & Preprocessing
+
+* Identifying and Handling Missing Values
+* One Hot Encoding & Dummy Variables
+* Label Encoding
+* Ordinal Encoding
