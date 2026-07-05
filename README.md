@@ -26,3 +26,4 @@ Data Cleaning & Preprocessing
 * One Hot Encoding & Dummy Variables
 * Label Encoding
 * Ordinal Encoding
+* Outlier Detection and Removal
