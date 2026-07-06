@@ -27,3 +27,4 @@ Data Cleaning & Preprocessing
 * Label Encoding
 * Ordinal Encoding
 * Outlier Detection and Removal
+* Feature Scaling (Standardization and Normalization)
