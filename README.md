@@ -30,3 +30,6 @@ Data Cleaning & Preprocessing
 * Feature Scaling (Standardization)
 * Feature Scaling (Normalization)
 * Handling Duplicate Data
+* Replace and Data Type Change
+* Function Transformer
+
