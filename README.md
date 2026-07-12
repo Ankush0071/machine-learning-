@@ -32,4 +32,6 @@ Data Cleaning & Preprocessing
 * Handling Duplicate Data
 * Replace and Data Type Change
 * Function Transformer
+* Feature Selection (Techniques)
+
 
