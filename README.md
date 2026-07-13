@@ -33,5 +33,6 @@ Data Cleaning & Preprocessing
 * Replace and Data Type Change
 * Function Transformer
 * Feature Selection (Techniques)
+* Backward Elimination (using mixed)
 
 
