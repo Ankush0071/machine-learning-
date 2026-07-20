@@ -34,5 +34,8 @@ Data Cleaning & Preprocessing
 * Function Transformer
 * Feature Selection (Techniques)
 * Backward Elimination (using mixed)
+ #Supervised Learning in ML
+* Train Test Split in Dataset
+* Regression Analysis:
 
 
