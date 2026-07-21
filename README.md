@@ -36,6 +36,6 @@ Data Cleaning & Preprocessing
 * Backward Elimination (using mixed)
  #Supervised Learning in ML
 * Train Test Split in Dataset
-* Regression Analysis:
+* Regression Analysis: Linear Regression algorithm
 
 
